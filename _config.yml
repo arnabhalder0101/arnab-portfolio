@@ -23,7 +23,9 @@ resume_contact_address:         "Basirhat, Abu Daiyan Road, Vill - Sainpala, PO 
 resume_header_contact_info:     "Basirhat, Sainpala • +91 6296790017 • harnab308@gmail.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>I am a student, highly interested in Computer Science & Programming. I learned Python and C-Programming languages all by myself and created a few projects with those languages. Interested in further collaboration with people who have the same interest as me. 
+
+Working on myself, building a better version of myself, learning new things, focused on building a good network of people to improve & get better.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
